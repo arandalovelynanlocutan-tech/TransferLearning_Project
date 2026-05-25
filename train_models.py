@@ -1,7 +1,3 @@
-"""
-Transfer Learning Comparison: MobileNetV2 vs EfficientNetB0
-Binary Image Classification using PyTorch
-"""
 
 import os
 import time
